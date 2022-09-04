@@ -1,4 +1,4 @@
-# OPMSwtf Main Contracts  
+# One Punch Mantis Shrimp  
 $OPMS Token is a deflationary token built on Binance Smart Chain.  
   
 ![OPMSlogo](https://opms.wtf/opms-logo.png)  
