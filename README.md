@@ -7,20 +7,20 @@ $OPMS Token is a deflationary token built on Binance Smart Chain.
 ##Constructor Arguments
 
 _name | Set your token name
->One Punch Mantis Shrimp
+_One Punch Mantis Shrimp_
 _symbol | Set your tokens ticker
->OPMS
+_OPMS_
 _decimals  | Set the decimal count
->9
+_9_
 _supply | Set the total supply of token
->10000000000000
+_10000000000000_
 _txFee | Set the holder reward distribution fee per transaction
->3
+_3_
 _burnFee | Set the burn percent per transaction
->1
+_1_
 _charityFee | Set the charity fee percent per transaction
->6
+_6_
 _FeeAddress | Set your charity fee address
->
+0x...
 _tokenOwner | Set the contract owner
->
+0x...
