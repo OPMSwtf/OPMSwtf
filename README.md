@@ -1,4 +1,4 @@
-#OPMSwtf Main Contracts
+OPMSwtf Main Contracts
 $OPMS Token is a deflationary token built on Binance Smart Chain.
 
 NAME: One Punch Mantis Shrimp
@@ -8,10 +8,10 @@ Fees: 1% of every txn is burned.
 3% of every transaction is distributed amongst holders.
 6% of every transaction is sent to charity wallet.
 
-##OPMSwtf.sol
->Contains the main smart contract of $OPMS deployed on BSC.
+OPMSwtf.sol
+Contains the main smart contract of $OPMS deployed on BSC.
 
-##Constructor Arguments
+Constructor Arguments
 
 _name | Set your token name
 _One Punch Mantis Shrimp_
